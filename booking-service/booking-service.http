@@ -1,4 +1,4 @@
-@booking_service_HostAddress = http://localhost:5053
+@booking_service_HostAddress = http://localhost:5064
 
 GET {{booking_service_HostAddress}}/weatherforecast/
 Accept: application/json
